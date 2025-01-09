@@ -13,6 +13,7 @@ let gameInterval;
 let isGameOver = false;
 
 // Difficulty levels
+// by make change in below count difficulty incrs
 const difficulty = {
     'Easy': 150,
     'Medium': 100,
