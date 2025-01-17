@@ -69,7 +69,7 @@ function gameOver() {
     alert(`Game Over! Your score was ${score}`);
     resetGame();
 }
-
+// reset place
 // Reset the game
 function resetGame() {
     snake = [{ x: 160, y: 160 }];
